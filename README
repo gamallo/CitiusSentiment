@@ -1,8 +1,8 @@
-CitiusTool: PoS-Tagger an NERC
+CitiusSentiment: PERL scripts for opinion mining 
 
 Author:
 Pablo Gamallo
-ProLNat Group
+ProLNat Group, CiTIUS
 University of Santiago de Compostela
 Galiza, Spain
 
@@ -15,7 +15,7 @@ Perl and bash interpreters
 It contains CitiusTool (CitiusTagger + CitiusNEC).
 
 HOW TO INSTALL
-> tar  xzvf  CitiusSentiment.tar.gz
+> git clone https://github.com/gamallo/CitiusSentiment.git
 > sh install-citiussentiment.sh
 
 Pay attention: do not install the package in a directory whose name contain blank spaces!
